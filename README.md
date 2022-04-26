@@ -9,4 +9,4 @@
 - DeepLearning(Studying...)
 - Android(Java, Studying...)
 
-![reversal](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&reversal=true)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer)
