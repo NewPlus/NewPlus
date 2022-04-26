@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=NewPlus%20GitHub&fontSize=90)
-<b align="center">NewPlus GitHub</b>
 
 - YongHwan Lee
 - 1999.03.26
