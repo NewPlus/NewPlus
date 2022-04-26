@@ -10,3 +10,4 @@
 - Android(Java, Studying...)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&&rotate=-180)
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
