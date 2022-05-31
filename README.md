@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=NewPlus%20GitHub&fontSize=90)
 
 ![intro](https://capsule-render.vercel.app/api?type=transparent&text=YongHwan%20Lee&fontAlign=50&animation=blink&fontSize=40&section=intro&height=50)
+![내사진1](https://user-images.githubusercontent.com/32642002/171188318-5f221d01-24dc-4778-bd28-4ae6e9250a30.jpg)
 ![intro](https://capsule-render.vercel.app/api?type=transparent&text=1999.03.26&fontAlign=50&animation=blink&fontSize=20&section=intro&height=50)
 ![intro](https://capsule-render.vercel.app/api?type=transparent&text=Jeonbuk%20National%20University,%20IT%20Engineering&fontAlign=50&animation=blink&fontSize=20&section=intro&height=50)
 ![intro](https://capsule-render.vercel.app/api?type=transparent&text=Tech%20Stack&fontAlign=50&animation=blink&fontSize=20&section=intro&height=50)
