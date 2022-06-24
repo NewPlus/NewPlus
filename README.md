@@ -13,6 +13,7 @@
 
 ![intro](https://capsule-render.vercel.app/api?type=transparent&text=📚Studying&fontAlign=50&animation=blink&fontSize=20&section=intro&height=50)
 ![intro](https://capsule-render.vercel.app/api?type=transparent&text=DeepLearning(~Transformers%20Layer)&fontAlign=50&animation=blink&fontSize=20&section=intro&height=50)
+![intro](https://capsule-render.vercel.app/api?type=transparent&text=Natural%20Language%20Processing(NLP)&fontAlign=50&animation=blink&fontSize=20&section=intro&height=50)
 ![intro](https://capsule-render.vercel.app/api?type=transparent&text=MachineLearning&fontAlign=50&animation=blink&fontSize=20&section=intro&height=50)
 ![intro](https://capsule-render.vercel.app/api?type=transparent&text=Android(Java),%20Flutter&fontAlign=50&animation=blink&fontSize=20&section=intro&height=50)
 
