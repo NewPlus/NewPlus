@@ -10,7 +10,7 @@
 <p align="center"><img src="https://img.shields.io/badge/HTML-0cb07f?style=flat-square&logo=HTML&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS-0ddbd8?style=flat-square&logo=CSS&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat-square&logo=javascript&logoColor=white"/></a> <img src="https://img.shields.io/badge/ASP-770abf?style=flat-square&logo=ASP&logoColor=white"/></a> <img src="https://img.shields.io/badge/PHP-bf0a5b?style=flat-square&logo=PHP&logoColor=white"/></a></p>
 
 ![intro](https://capsule-render.vercel.app/api?type=transparent&text=📚Studying&fontAlign=50&animation=blink&fontSize=20&section=intro&height=50)
-![intro](https://capsule-render.vercel.app/api?type=transparent&text=DeepLearning(~Transformers%20Layer)&fontAlign=50&animation=blink&fontSize=20&section=intro&height=50)
+![intro](https://capsule-render.vercel.app/api?type=transparent&text=DeepLearning(~Transformers)&fontAlign=50&animation=blink&fontSize=20&section=intro&height=50)
 ![intro](https://capsule-render.vercel.app/api?type=transparent&text=Natural%20Language%20Processing(NLP)&fontAlign=50&animation=blink&fontSize=20&section=intro&height=50)
 ![intro](https://capsule-render.vercel.app/api?type=transparent&text=MachineLearning&fontAlign=50&animation=blink&fontSize=20&section=intro&height=50)
 ![intro](https://capsule-render.vercel.app/api?type=transparent&text=Android(Java),%20Flutter&fontAlign=50&animation=blink&fontSize=20&section=intro&height=50)
