@@ -2,8 +2,6 @@
 
 ![intro](https://capsule-render.vercel.app/api?type=transparent&text=YongHwan%20Lee&fontAlign=50&animation=blink&fontSize=40&section=intro&height=50)
 
-<p align="center"><img src="https://user-images.githubusercontent.com/32642002/171190867-b4099bb1-c095-449e-9876-685d566901d0.jpg"/></p>
-
 ![intro](https://capsule-render.vercel.app/api?type=transparent&text=1999.03.26&fontAlign=50&animation=blink&fontSize=20&section=intro&height=50)
 ![intro](https://capsule-render.vercel.app/api?type=transparent&text=Jeonbuk%20National%20University,%20IT%20Engineering&fontAlign=50&animation=blink&fontSize=20&section=intro&height=50)
 ![intro](https://capsule-render.vercel.app/api?type=transparent&text=💻Tech%20Stack&fontAlign=50&animation=blink&fontSize=20&section=intro&height=50)
