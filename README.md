@@ -15,4 +15,6 @@
 ![intro](https://capsule-render.vercel.app/api?type=transparent&text=MachineLearning&fontAlign=50&animation=blink&fontSize=20&section=intro&height=50)
 ![intro](https://capsule-render.vercel.app/api?type=transparent&text=Android(Java),%20Flutter&fontAlign=50&animation=blink&fontSize=20&section=intro&height=50)
 
+<p align="center"><a href="https://velog.io/@lyhthy6" target="_blank"><img src="https://img.shields.io/badge/%20📝Velog%20-42f5bf?style=flat-square"/></a></a></p>
+
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer&fontSize=20" /></p>
