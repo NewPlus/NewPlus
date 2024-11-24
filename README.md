@@ -1,7 +1,7 @@
-<h1>Hi 👋, I'm Yonghwan Lee</h1>
+<h1>👋Hi, I'm Yonghwan Lee</h1>
 
-- 🔭 I’m currently working on [JBNU NLL Lab](https://sites.google.com/view/nlllab)
-- 🌱 I’m currently learning **AI/ML and Natural Language Processing**
+- 🔭 I was studying on [JBNU NLL Lab](https://sites.google.com/view/nlllab)
+- 🌱 I’m currently learning **AI/ML and Natural Language Processing** and **HW Control for Manufactering**
 - 📫 How to reach me **lyhthy6@naver.com**
 - 📝 I'm currently studying at **Jeonbuk National University**
 - [About Me](https://sites.google.com/view/leeyonghwan/about)
