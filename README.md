@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **AI/ML and Natural Language Processing** and **HW Control for Manufactering**
 - 📫 How to reach me **lyhthy6@naver.com**
 - 📝 I'm currently studying at **Jeonbuk National University**
-- [About Me](https://sites.google.com/view/leeyonghwan/about)
+- [About Me](https://newplus.github.io/about/)
 
 <p align="left">
 </p>
